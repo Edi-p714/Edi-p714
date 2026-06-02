@@ -1,6 +1,23 @@
-## Hallo, ich bin Edison Puerta 👋
-# 💫 About Me:
-Ich habe eine technische Ausbildung in Softwareentwicklung in Kolumbien abgeschlossen.  <br>Aktuell erweitere ich meine Kenntnisse durch Weiterbildungen an der Hochschule Hannover:  <br><br>- 📌 **Web Technology (2025 – aktuell)**  <br>  - HTML5, CSS, Responsive Webdesign  <br>  - SQL & relationale Datenbanken  <br>  - Dynamische Websites mit PHP  <br>  - WordPress (Themes & Plugins)  <br>  - JavaScript (DOM, Events, Async)  <br>  - React (Single-Page-Apps)  <br>  - UX/UI Design  <br>  - KI-gestützte Webentwicklung (LLMs, Generative AI)  <br>  - Agiles Web-Projekt  <br><br>- 📌 **Artificial Intelligence / Data Science (Jan – Jun 2026)**  <br>  - Python Grundlagen & OOP  <br>  - Pandas, NumPy, Algorithmen  <br>  - Machine Learning & Deep Learning (PyTorch)  <br>  - Generative KI (LLMs, RAG, LangChain, HF Spaces)  <br>  - Agiles KI-Projekt  
+# Hola, soy Edison Puerta 👋 (Analista de Calidad de Software)
+
+Soy un profesional de QA con experiencia práctica sólida asegurando la estabilidad de aplicaciones web, móviles y de escritorio. Mi enfoque combina la atención al detalle de las pruebas manuales con una fuerte mentalidad de mejora continua: hacer que el proceso sea un 1% más eficiente en cada ciclo.
+
+Actualmente, estoy formalizando mis bases técnicas en el SENA y utilizando este espacio para documentar mis estrategias de prueba y mi transición progresiva hacia el **QA Automation**.
+
+### 🛠️ Tech Stack & Herramientas
+*   **Core QA:** Pruebas Manuales | Casos de Prueba | Pruebas de Regresión | Fluid Attacks
+*   **Gestión & Metodologías:** Jira | Scrum | Kanban
+*   **Bases Técnicas:** SQL | Python | JavaScript | HTML/CSS | Git
+*   **Optimización:** n8n | IA aplicada a flujos de trabajo (Prompt Engineering)
+
+### 📂 ¿Qué encontrarás en mis repositorios?
+Como Analista QA, utilizo GitHub para organizar y versionar la documentación técnica de calidad, no solo código. Aquí destaco:
+1.  **Planes y Casos de Prueba:** Documentación estructurada de flujos de prueba.
+2.  **Reportes de Bugs:** Ciclo de vida de defectos y matrices de trazabilidad.
+3.  **Scripts de Automatización (En progreso):** Mis primeros pasos implementando automatización para optimizar tareas repetitivas.
+
+---
+📫 **Conectemos:** [LinkedIn](www.linkedin.com/in/edisonpuerta) | ✉️ edison.puerta714@gmail.com 
 
 
 ## 🌐 Socials:
